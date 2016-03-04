@@ -1,5 +1,5 @@
 {
-  "name": "travis-broken-example",
+  "name": "travis-example",
   "version": "1.0.0",
   "description": "travis ci example",
   "main": "index.js",
@@ -10,12 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mjuniper/travis-broken-example.git"
+    "url": "git+https://github.com/mjuniper/travis-example.git"
   },
   "bugs": {
-    "url": "https://github.com/mjuniper/travis-broken-example/issues"
+    "url": "https://github.com/mjuniper/travis-example/issues"
   },
-  "homepage": "https://github.com/mjuniper/travis-broken-example#readme",
+  "homepage": "https://github.com/mjuniper/travis-example#readme",
   "devDependencies": {
     "jasmine": "^2.4.1",
     "jasmine-core": "^2.4.1",
