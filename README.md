@@ -10,7 +10,7 @@ Adapted from https://docs.travis-ci.com/user/for-beginners
 `$ git add .`
 `$ git commit -m 'Testing Travis CI'`
 `$ git push`
-1. Wait for Travis CI to run a build on your fork of the travis-example repository, check the build status and notice that the build fails. (Travis CI sends you an email when this happens)
+1. Wait for Travis CI to run a build on your fork of the travis-example repository, check the <a href="https://travis-ci.org/repositories">build status</a> and notice that the build fails. (Travis CI sends you an email when this happens)
 1. Fix the code by making sure that 2=1+1 in tests/test.spec.js, commit and push to GitHub. This time, the build does not fail.
 `$ git add .`
 `$ git commit -m 'Testing Travis CI: fixing the build'`
