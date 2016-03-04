@@ -1,8 +1,6 @@
 # used by travis ci
 language: node_js
 before_install:
-- npm config set spin false
-# - npm install -g npm@^2
 - npm install -g karma-cli
 install:
 - npm install
